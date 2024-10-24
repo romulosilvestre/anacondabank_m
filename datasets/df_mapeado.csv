@@ -1,0 +1,1001 @@
+default,conta_corrente,prazo_emprestimo_meses,historico_credito,proposito_emprestimo,valor_emprestimo,reserva_cc,tempo_emprego_atual,taxa_comp_salario,sexo_est_civil,outros_fiadores,anos_residencia_atual,propriedade,idade,outros_planos_financiamento,tipo_residencia,n_creditos_banco,status_emprego,n_dependentes,telefone,trabalhador_estrangeiro
+0,< 0 DM,6,1,1,1169,1,,4,1,none,4,1,67,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,48,2,1,5951,2,,2,2,none,2,1,22,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,12,1,2,2096,2,,2,1,none,3,1,49,none,own,1,unskilled - resident,2,none,yes
+0,< 0 DM,42,2,3,7882,2,,2,1,guarantor,4,2,45,none,for free,1,skilled employee / official,2,none,yes
+1,< 0 DM,24,3,4,4870,2,,3,1,none,4,3,53,none,for free,2,skilled employee / official,2,none,yes
+0,no checking account,36,2,2,9055,1,,2,1,none,4,3,35,none,for free,1,unskilled - resident,2,"yes, registered under the customers name ",yes
+0,no checking account,24,2,3,2835,4,,3,1,none,4,2,53,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,36,2,5,6948,2,,2,1,none,2,4,35,none,rent,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,12,2,1,3059,5,,2,3,none,4,1,61,none,own,1,unskilled - resident,1,none,yes
+1,0 <= ... < 200 DM,30,1,4,5234,2,,4,4,none,2,4,28,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+1,0 <= ... < 200 DM,12,2,4,1295,2,,3,2,none,1,4,25,none,rent,1,skilled employee / official,1,none,yes
+1,< 0 DM,48,2,6,4308,2,,3,2,none,4,2,24,none,rent,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,12,2,1,1567,2,,1,2,none,1,4,22,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,24,1,4,1199,2,,4,1,none,4,4,60,none,own,2,unskilled - resident,1,none,yes
+0,< 0 DM,15,2,4,1403,2,,2,2,none,4,4,28,none,rent,1,skilled employee / official,1,none,yes
+1,< 0 DM,24,2,1,1282,3,,4,2,none,2,4,32,none,own,1,unskilled - resident,1,none,yes
+0,no checking account,24,1,1,2424,1,,4,1,none,4,2,53,none,own,2,skilled employee / official,1,none,yes
+0,< 0 DM,30,4,6,8072,1,,2,1,none,3,4,25,bank,own,3,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,24,2,5,12579,2,,4,2,none,2,3,44,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,24,2,1,3430,4,,3,1,none,2,4,31,none,own,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,9,1,4,2134,2,,4,1,none,4,4,48,none,own,3,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,6,2,1,2647,4,,2,1,none,3,1,44,none,rent,1,skilled employee / official,2,none,yes
+0,< 0 DM,10,1,4,2241,2,,1,1,none,3,1,48,none,rent,2,unskilled - resident,2,none,no
+0,0 <= ... < 200 DM,12,1,5,1804,3,,3,1,none,4,2,44,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,10,1,3,2069,1,,2,4,none,1,4,26,none,own,2,skilled employee / official,1,none,no
+0,< 0 DM,6,2,3,1374,2,,1,1,none,2,1,36,bank,own,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,no checking account,6,4,1,426,2,,4,4,none,4,4,39,none,own,1,unskilled - resident,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,12,5,1,409,5,,3,2,none,3,1,42,none,rent,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,7,2,1,2415,2,,3,1,guarantor,2,1,34,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,60,3,6,6836,2,,3,1,none,4,3,63,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,18,2,6,1913,5,,3,4,none,3,1,36,bank,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,24,2,3,4020,2,,2,1,none,2,4,27,stores,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,18,2,4,5866,3,,2,1,none,2,4,30,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,12,1,6,1264,1,,4,1,none,4,3,57,none,rent,1,unskilled - resident,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,12,2,3,1474,2,,4,2,none,1,2,33,bank,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,45,1,1,4746,2,,4,1,none,2,2,25,none,own,2,unskilled - resident,1,none,yes
+0,no checking account,48,1,2,6110,2,,1,1,none,3,3,31,bank,for free,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,>= 200 DM / salary assignments for at least 1 year,18,2,1,2100,2,,4,1,co-applicant,2,1,37,stores,own,1,skilled employee / official,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,10,2,7,1225,2,,2,1,none,2,4,37,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,9,2,1,458,2,,4,1,none,3,1,24,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,30,2,1,2333,4,,4,1,none,2,4,30,bank,own,1,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+0,0 <= ... < 200 DM,12,2,1,1158,4,,3,3,none,1,4,26,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,18,3,8,6204,2,,2,1,none,4,1,44,none,own,1,unskilled - resident,2,"yes, registered under the customers name ",yes
+0,< 0 DM,30,1,5,6187,3,,1,4,none,4,4,24,none,rent,2,skilled employee / official,1,none,yes
+1,< 0 DM,48,1,5,6143,2,,4,2,none,4,3,58,stores,for free,2,unskilled - resident,1,none,yes
+0,no checking account,11,1,4,1393,2,,4,2,none,4,4,35,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+0,no checking account,36,2,1,2299,4,,4,1,none,4,4,39,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,6,2,5,1352,4,,1,2,none,2,2,23,none,rent,1,unemployed/ unskilled - non-resident,1,"yes, registered under the customers name ",yes
+0,no checking account,11,1,4,7228,2,,1,1,none,4,2,39,none,own,2,unskilled - resident,1,none,yes
+0,no checking account,12,2,1,2073,3,,4,2,co-applicant,2,1,28,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,24,3,3,2333,1,,4,1,none,2,2,29,bank,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,27,3,5,5965,2,,1,1,none,2,4,30,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,12,2,1,1262,2,,3,1,none,2,4,25,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,18,2,5,3378,1,,2,1,none,1,2,31,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,36,3,4,2225,2,,4,1,none,4,3,57,bank,for free,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,6,5,4,783,1,,1,1,guarantor,2,1,26,stores,own,1,unskilled - resident,2,none,yes
+1,0 <= ... < 200 DM,12,2,1,6468,1,,2,1,none,1,3,52,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,36,1,1,9566,2,,2,2,none,2,4,31,stores,own,2,skilled employee / official,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,18,2,4,1961,2,,3,2,none,2,4,23,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+1,< 0 DM,36,1,3,6229,2,,4,2,co-applicant,4,3,23,none,rent,2,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,9,2,6,1391,2,,2,4,none,1,1,27,bank,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,15,1,1,1537,1,,4,1,guarantor,4,1,50,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,36,4,6,1953,2,,4,1,none,4,3,61,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,48,4,6,14421,2,,2,1,none,2,4,25,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,24,2,1,3181,2,,4,2,none,4,2,26,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,27,2,8,5190,1,,4,1,none,4,2,48,none,own,4,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,12,2,1,2171,2,,2,2,none,2,4,29,bank,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,12,2,4,1007,5,,4,4,none,1,1,22,none,own,1,skilled employee / official,1,none,yes
+1,no checking account,36,2,2,1819,2,,4,1,none,4,3,37,stores,for free,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,36,2,1,2394,1,,4,2,none,4,4,25,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,36,2,5,8133,2,,1,2,none,2,2,30,bank,own,1,skilled employee / official,1,none,yes
+0,no checking account,7,1,1,730,1,,4,1,none,2,2,46,none,rent,2,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,< 0 DM,8,1,9,1164,2,,3,1,none,4,3,51,bank,for free,2,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,42,1,6,5954,2,,2,2,none,1,1,41,bank,own,2,unskilled - resident,1,none,yes
+1,< 0 DM,36,2,2,1977,1,,4,1,none,4,3,40,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,< 0 DM,12,1,5,1526,2,,4,1,none,4,3,66,none,for free,2,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+1,< 0 DM,42,2,1,3965,2,,4,1,none,3,4,34,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,11,3,1,4771,2,,2,1,none,4,2,51,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,54,4,5,9436,1,,2,1,none,2,2,39,none,own,1,unskilled - resident,2,none,yes
+0,0 <= ... < 200 DM,30,2,3,3832,2,,2,4,none,1,2,22,none,own,1,skilled employee / official,1,none,yes
+1,no checking account,24,2,1,5943,1,,1,2,none,1,4,44,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,15,2,1,1213,4,,4,1,none,3,2,47,stores,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,18,2,6,1568,3,,3,2,none,4,2,24,none,rent,1,unskilled - resident,1,none,yes
+0,< 0 DM,24,2,9,1755,2,,4,2,guarantor,4,1,58,none,own,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,< 0 DM,10,2,1,2315,2,,3,1,none,4,1,52,none,own,1,unskilled - resident,1,none,yes
+0,no checking account,12,1,6,1412,2,,4,2,guarantor,2,1,29,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,18,1,3,1295,2,,4,2,none,1,2,27,none,own,2,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,36,2,2,12612,3,,1,1,none,4,3,47,none,for free,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,< 0 DM,18,2,4,2249,3,,4,1,none,3,4,30,none,own,1,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+1,< 0 DM,12,4,8,1108,2,,4,1,none,3,1,28,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,12,1,1,618,2,,4,1,none,4,1,56,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,12,1,5,1409,2,,4,1,none,3,1,54,none,own,1,skilled employee / official,1,none,yes
+1,no checking account,12,1,1,797,1,,4,2,none,3,2,33,bank,own,1,unskilled - resident,2,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,24,1,3,3617,1,,4,1,co-applicant,4,3,20,none,rent,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,12,2,4,1318,5,,4,1,none,4,1,54,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,54,4,6,15945,2,,3,1,none,4,3,58,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,12,1,2,2012,1,,4,2,none,2,4,61,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,18,2,6,2622,3,,4,1,none,4,4,34,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,36,1,1,2337,2,,4,1,none,4,1,36,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,20,3,5,7057,1,,3,1,none,4,2,36,bank,rent,2,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+0,no checking account,24,2,4,1469,3,,4,4,none,4,1,41,none,rent,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,36,2,1,2323,2,,4,1,none,4,4,24,none,rent,1,skilled employee / official,1,none,yes
+0,no checking account,6,3,1,932,2,,3,2,none,2,1,24,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,9,1,3,1919,2,,4,1,none,3,4,35,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,12,2,5,2445,1,,2,4,none,4,4,26,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,24,1,9,11938,2,,2,1,co-applicant,3,4,39,none,own,2,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+1,no checking account,18,5,4,6458,2,,2,1,none,4,3,39,bank,own,2,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,12,2,4,6078,2,,2,1,none,2,4,32,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,24,2,3,7721,1,,1,2,none,2,2,30,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",no
+0,0 <= ... < 200 DM,14,2,6,1410,4,,1,4,none,2,1,35,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,6,3,6,1449,3,,1,3,none,2,4,31,bank,own,2,skilled employee / official,2,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,15,2,2,392,2,,4,2,none,4,2,23,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,18,2,4,6260,2,,3,1,none,3,1,28,none,rent,1,unskilled - resident,1,none,yes
+1,no checking account,36,1,4,7855,2,,4,2,none,2,1,25,stores,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,12,2,1,1680,4,,3,4,none,1,1,35,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,48,1,1,3578,1,,4,1,none,1,1,47,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,42,2,1,7174,1,,4,2,none,3,4,30,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,< 0 DM,10,1,3,2132,1,,2,2,co-applicant,3,1,27,none,rent,2,skilled employee / official,1,none,no
+1,< 0 DM,33,1,3,4281,4,,1,2,none,4,4,23,none,own,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,12,1,4,2366,4,,3,3,none,3,4,36,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,< 0 DM,21,2,1,1835,2,,3,2,none,2,1,25,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,24,1,5,3868,2,,4,2,none,2,4,41,none,rent,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,12,2,3,1768,2,,3,1,none,2,1,24,none,rent,1,unskilled - resident,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,10,1,4,781,2,,4,1,none,4,3,63,none,for free,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,18,2,3,1924,1,,4,2,none,3,1,27,none,rent,1,skilled employee / official,1,none,yes
+0,< 0 DM,12,1,4,2121,2,,4,1,none,2,2,30,none,own,2,skilled employee / official,1,none,yes
+0,< 0 DM,12,2,1,701,2,,4,4,none,2,1,40,none,own,1,unskilled - resident,1,none,yes
+1,0 <= ... < 200 DM,12,2,8,639,2,,4,1,none,2,4,30,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,12,1,5,1860,2,,4,1,none,2,4,34,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,< 0 DM,12,1,4,3499,2,,3,2,co-applicant,2,1,29,none,own,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,48,2,4,8487,1,,1,2,none,2,4,24,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,36,3,2,6887,2,,4,1,none,3,2,29,stores,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,15,2,3,2708,2,,2,1,none,3,2,27,bank,own,2,unskilled - resident,1,none,yes
+0,no checking account,18,2,3,1984,2,,4,1,none,4,3,47,bank,for free,2,skilled employee / official,1,none,yes
+0,no checking account,60,2,1,10144,3,,2,2,none,4,1,21,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,12,1,1,1240,1,,4,2,none,2,1,38,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,27,3,5,8613,5,,2,1,none,2,4,27,none,own,2,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,12,2,1,766,4,,4,1,none,3,1,66,none,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,15,1,1,2728,1,,4,1,guarantor,2,1,35,bank,own,3,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,12,2,1,1881,2,,2,2,none,2,4,44,none,rent,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,6,2,4,709,5,,2,4,none,2,1,27,none,own,1,unemployed/ unskilled - non-resident,1,none,no
+0,0 <= ... < 200 DM,36,2,1,4795,2,,4,2,none,1,3,30,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,< 0 DM,27,2,1,3416,2,,3,1,none,2,4,27,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+1,< 0 DM,18,2,3,2462,2,,2,1,none,2,4,22,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,21,1,3,2288,2,,4,2,none,4,2,23,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,48,5,6,3566,3,,4,1,none,2,4,30,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,6,1,4,860,2,,1,2,none,4,3,39,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,12,1,4,682,3,,4,2,none,3,4,51,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,36,1,3,5371,2,,3,1,guarantor,2,2,28,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,18,1,1,1582,5,,4,1,none,4,4,46,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,6,2,1,1346,3,,2,1,none,4,3,42,bank,for free,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,10,2,1,1924,2,,1,1,none,4,2,38,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",no
+0,>= 200 DM / salary assignments for at least 1 year,36,2,1,5848,2,,4,1,none,1,4,24,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,24,1,5,7758,5,,2,2,none,4,3,29,none,rent,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,24,3,6,6967,3,,4,1,none,4,4,36,none,rent,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,< 0 DM,12,2,3,1282,2,,2,2,none,4,4,20,none,rent,1,skilled employee / official,1,none,yes
+0,< 0 DM,9,1,8,1288,3,,3,1,guarantor,4,1,48,none,own,2,skilled employee / official,2,none,no
+0,< 0 DM,12,5,10,339,2,,4,4,none,1,4,45,bank,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,24,2,4,3512,3,,2,1,none,3,4,38,bank,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,6,1,1,1898,1,,1,1,none,2,1,34,none,own,2,unskilled - resident,2,none,yes
+0,no checking account,24,1,1,2872,3,,3,1,none,4,1,36,none,own,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,18,1,4,1055,2,,4,2,none,1,2,30,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,15,2,7,1262,4,,4,1,none,3,2,36,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,10,2,4,7308,2,,2,1,none,4,3,70,bank,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,36,2,4,909,4,,4,1,none,4,2,36,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,6,2,3,2978,4,,1,1,none,2,4,32,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,18,2,3,1131,2,,4,2,none,2,4,33,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,11,2,3,1577,5,,4,2,none,1,1,20,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,24,2,3,3972,2,,2,2,none,4,2,25,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,24,1,6,1935,2,,4,3,none,4,1,31,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,15,4,4,950,2,,4,1,none,3,4,33,none,rent,2,skilled employee / official,2,none,yes
+0,no checking account,12,2,3,763,2,,4,2,none,1,1,26,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,24,3,3,2064,2,,3,2,none,2,2,34,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,8,2,1,1414,2,,4,1,guarantor,2,1,33,none,own,1,skilled employee / official,1,none,no
+1,< 0 DM,21,3,2,3414,2,,2,1,none,1,2,26,none,own,2,skilled employee / official,1,none,yes
+1,no checking account,30,5,5,7485,1,,4,2,none,1,1,53,bank,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,< 0 DM,12,2,3,2577,2,,2,3,none,1,4,42,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,6,1,1,338,4,,4,1,none,4,4,52,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,12,2,1,1963,2,,4,1,none,2,4,31,none,rent,2,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+0,< 0 DM,21,1,4,571,2,,4,1,none,4,1,65,none,own,2,skilled employee / official,1,none,yes
+1,no checking account,36,3,6,9572,2,,1,3,none,1,4,28,none,own,2,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,36,3,6,4455,2,,2,3,none,2,1,30,stores,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,< 0 DM,21,5,4,1647,1,,4,1,none,2,2,40,none,own,2,unskilled - resident,2,none,yes
+0,no checking account,24,1,3,3777,5,,4,1,none,4,1,50,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,18,1,4,884,2,,4,1,none,4,4,36,bank,own,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,15,1,1,1360,2,,4,1,none,2,2,31,none,own,2,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,9,5,5,5129,2,,2,2,none,4,3,74,bank,for free,1,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,16,1,4,1175,2,,2,1,none,3,4,68,none,for free,3,unemployed/ unskilled - non-resident,1,"yes, registered under the customers name ",yes
+1,< 0 DM,12,2,1,674,3,,4,4,none,1,2,20,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,18,4,3,3244,2,,1,2,none,4,4,33,bank,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,no checking account,24,2,6,4591,5,,2,1,none,3,2,54,none,own,3,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,48,4,6,3844,3,,4,1,none,4,3,34,none,for free,1,unskilled - resident,2,none,yes
+1,0 <= ... < 200 DM,27,2,6,3915,2,,4,1,none,2,4,36,none,own,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,6,2,1,2108,2,,2,4,none,2,1,29,none,rent,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,45,2,1,3031,3,,4,1,guarantor,4,2,21,none,rent,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,9,1,2,1501,2,,2,2,none,3,4,34,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,6,1,1,1382,2,,1,2,none,1,4,28,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,12,2,3,951,3,,4,2,none,4,4,27,bank,rent,4,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,24,2,5,2760,1,,4,1,none,4,3,36,bank,for free,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,18,3,3,4297,2,,4,3,none,3,3,40,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,9,1,2,936,4,,4,1,none,2,4,52,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,12,2,4,1168,2,,4,4,none,3,1,27,none,own,1,unskilled - resident,1,none,yes
+0,no checking account,27,3,6,5117,2,,3,1,none,4,4,26,none,own,2,skilled employee / official,1,none,yes
+1,< 0 DM,12,2,10,902,2,,4,4,none,4,2,21,none,rent,1,skilled employee / official,1,none,yes
+0,no checking account,12,1,4,1495,2,,4,1,none,1,1,38,none,own,2,unskilled - resident,2,none,yes
+0,< 0 DM,30,1,5,10623,2,,3,1,none,4,3,38,none,for free,3,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+0,no checking account,12,1,3,1935,2,,4,1,none,4,1,43,none,own,3,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,12,1,7,1424,2,,4,1,none,3,2,26,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,24,2,6,6568,2,,2,4,none,2,4,21,stores,own,1,unskilled - resident,1,none,yes
+0,no checking account,12,2,5,1413,5,,3,1,none,2,2,55,none,own,1,skilled employee / official,1,none,no
+0,no checking account,9,1,1,3074,1,,1,1,none,2,1,33,none,own,2,skilled employee / official,2,none,yes
+0,no checking account,36,2,1,3835,1,,2,2,none,4,1,45,none,own,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+1,< 0 DM,27,4,6,5293,2,,2,1,none,4,2,50,stores,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,>= 200 DM / salary assignments for at least 1 year,30,3,6,1908,2,,4,1,none,4,1,66,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,36,1,1,3342,1,,4,1,none,2,4,51,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,6,1,10,932,1,,1,2,none,3,2,39,none,own,2,unskilled - resident,1,none,yes
+0,< 0 DM,18,4,6,3104,2,,3,1,none,1,2,31,bank,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,36,2,1,3913,2,,2,1,none,2,1,23,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,24,2,3,3021,2,,2,3,none,2,1,24,none,rent,1,unskilled - resident,1,none,yes
+0,no checking account,10,2,4,1364,2,,2,2,none,4,4,64,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,12,2,1,625,2,,4,4,guarantor,1,1,26,bank,own,1,unskilled - resident,1,none,yes
+0,< 0 DM,12,2,2,1200,1,,4,2,none,4,2,23,bank,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,12,2,1,707,2,,4,1,none,2,1,30,bank,own,2,skilled employee / official,1,none,yes
+0,no checking account,24,3,6,2978,1,,4,1,none,4,1,32,none,own,2,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,15,2,5,4657,2,,3,1,none,2,4,30,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,36,4,8,2613,2,,4,1,none,2,4,27,none,own,2,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,48,2,1,10961,5,,1,1,co-applicant,2,3,27,bank,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,12,2,3,7865,2,,4,1,none,4,3,53,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,no checking account,9,2,1,1478,2,,4,1,none,2,4,22,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,24,2,3,3149,2,,4,1,none,1,3,22,bank,for free,1,skilled employee / official,1,none,yes
+1,>= 200 DM / salary assignments for at least 1 year,36,2,1,4210,2,,4,1,none,2,4,26,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,9,2,4,2507,4,,2,1,none,4,3,51,none,for free,1,unskilled - resident,1,none,yes
+0,no checking account,12,2,1,2141,3,,3,1,none,1,3,35,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,18,2,1,866,2,,4,4,guarantor,2,1,25,none,own,1,unskilled - resident,1,none,yes
+0,no checking account,4,1,1,1544,2,,2,1,none,1,1,42,none,own,3,unskilled - resident,2,none,yes
+1,< 0 DM,24,2,1,1823,2,,4,1,none,2,4,30,stores,own,1,management/ self-employed/ highly qualified employee/ officer,2,none,yes
+1,0 <= ... < 200 DM,6,2,4,14555,1,,1,1,none,2,2,23,none,own,1,unemployed/ unskilled - non-resident,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,21,2,6,2767,3,,4,3,none,2,4,61,bank,rent,2,unskilled - resident,1,none,yes
+0,no checking account,12,1,1,1291,2,,4,2,none,2,2,35,none,own,2,skilled employee / official,1,none,yes
+0,< 0 DM,30,2,1,2522,2,,1,1,guarantor,3,2,39,none,own,1,skilled employee / official,2,none,yes
+1,< 0 DM,24,2,4,915,1,,4,2,none,2,4,29,bank,own,1,skilled employee / official,1,none,yes
+0,no checking account,6,2,1,1595,2,,3,1,none,2,2,51,none,own,1,skilled employee / official,2,none,yes
+1,< 0 DM,48,4,5,4605,2,,3,1,none,4,3,24,none,for free,2,skilled employee / official,2,none,yes
+0,no checking account,12,1,6,1185,2,,3,2,none,2,1,27,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,12,5,10,3447,4,,4,2,none,3,1,35,none,own,1,unskilled - resident,2,none,yes
+0,no checking account,24,2,6,1258,2,,4,1,none,1,1,25,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,12,1,1,717,2,,4,1,none,4,1,52,none,own,3,skilled employee / official,1,none,yes
+0,no checking account,6,4,4,1204,3,,4,1,none,1,3,35,bank,rent,1,skilled employee / official,1,none,no
+0,>= 200 DM / salary assignments for at least 1 year,24,2,3,1925,2,,2,1,none,2,1,26,none,own,1,skilled employee / official,1,none,yes
+1,no checking account,18,2,1,433,2,,3,2,co-applicant,4,1,22,none,rent,1,skilled employee / official,1,none,yes
+0,< 0 DM,6,1,4,666,5,,3,2,none,4,1,39,none,own,2,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,12,2,3,2251,2,,1,2,none,2,4,46,none,own,1,unskilled - resident,1,none,yes
+1,0 <= ... < 200 DM,30,2,4,2150,2,,4,2,guarantor,2,3,24,bank,own,1,skilled employee / official,1,none,yes
+0,no checking account,24,3,3,4151,3,,2,1,none,3,2,35,none,own,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,9,2,3,2030,1,,2,1,none,1,4,24,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,60,3,1,7418,1,,1,1,none,1,1,27,none,own,1,unskilled - resident,1,none,yes
+0,no checking account,24,1,1,2684,2,,4,1,none,2,1,35,none,own,2,unskilled - resident,1,none,yes
+1,< 0 DM,12,5,1,2149,2,,4,3,none,1,3,29,none,for free,1,skilled employee / official,1,none,yes
+0,no checking account,15,2,5,3812,3,,1,2,none,4,4,23,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,11,1,1,1154,3,,4,2,none,4,1,57,none,own,3,unskilled - resident,1,none,yes
+0,< 0 DM,12,2,3,1657,2,,2,1,none,2,1,27,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,24,2,1,1603,2,,4,2,none,4,4,55,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,18,1,4,5302,2,,2,1,none,4,3,36,none,for free,3,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,12,1,2,2748,2,,2,2,none,4,3,57,bank,for free,3,unskilled - resident,1,none,yes
+0,no checking account,10,1,4,1231,2,,3,1,none,4,1,32,none,own,2,unskilled - resident,2,none,no
+1,0 <= ... < 200 DM,15,2,1,802,2,,4,1,none,3,4,37,none,own,1,skilled employee / official,2,none,yes
+0,no checking account,36,1,6,6304,1,,4,1,none,4,1,36,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,24,2,1,1533,2,,4,2,none,3,4,38,stores,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,14,2,4,8978,2,,1,3,none,4,2,45,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",no
+0,no checking account,24,2,1,999,1,,4,1,none,2,4,25,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,18,2,4,2662,1,,4,1,none,3,2,32,none,own,1,skilled employee / official,1,none,no
+0,no checking account,12,1,3,1402,4,,3,2,none,4,4,37,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,48,5,4,12169,1,,4,1,co-applicant,4,3,36,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,48,2,1,3060,2,,4,1,none,4,1,28,none,own,2,skilled employee / official,1,none,yes
+1,< 0 DM,30,2,8,11998,2,,1,3,none,1,3,34,none,own,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,no checking account,9,2,1,2697,2,,1,1,none,2,1,32,none,own,1,skilled employee / official,2,none,yes
+0,no checking account,18,1,1,2404,2,,2,2,none,2,4,26,none,own,2,skilled employee / official,1,none,yes
+0,< 0 DM,12,2,3,1262,1,,2,3,none,4,2,49,none,own,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+1,no checking account,6,2,3,4611,2,,1,2,none,4,2,32,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,24,2,1,1901,3,,4,1,none,4,4,29,none,rent,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,15,1,5,3368,5,,3,1,none,4,3,23,none,rent,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,12,2,3,1574,2,,4,1,none,2,1,50,none,own,1,skilled employee / official,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,18,5,1,1445,1,,4,1,none,4,4,49,bank,own,1,unskilled - resident,1,none,yes
+0,no checking account,15,1,3,1520,1,,4,1,none,4,2,63,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,24,1,4,3878,3,,4,3,none,2,4,37,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,47,2,4,10722,2,,1,2,none,1,1,35,none,own,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,< 0 DM,48,2,5,4788,2,,4,1,none,3,2,26,none,own,1,skilled employee / official,2,none,yes
+0,0 <= ... < 200 DM,48,3,9,7582,3,,2,1,none,4,3,31,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,12,2,1,1092,2,,4,2,guarantor,4,1,49,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,24,3,1,1024,2,,4,4,none,4,1,48,stores,own,1,skilled employee / official,1,none,yes
+0,no checking account,12,2,6,1076,2,,2,4,none,2,1,26,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",no
+1,0 <= ... < 200 DM,36,2,5,9398,2,,1,4,none,4,4,28,none,rent,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,< 0 DM,24,1,5,6419,2,,2,2,none,4,3,44,none,for free,2,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,42,1,5,4796,2,,4,1,none,4,3,56,none,for free,1,skilled employee / official,1,none,yes
+0,no checking account,48,1,6,7629,1,,4,3,none,2,4,46,bank,own,2,management/ self-employed/ highly qualified employee/ officer,2,none,yes
+1,0 <= ... < 200 DM,48,2,3,9960,2,,1,2,none,2,4,26,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,12,2,5,4675,1,,1,2,none,4,4,20,none,rent,1,skilled employee / official,1,none,yes
+0,no checking account,10,2,4,1287,1,,4,1,co-applicant,2,2,45,none,own,1,unskilled - resident,1,none,no
+0,no checking account,18,2,3,2515,2,,3,1,none,4,1,43,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,21,1,3,2745,5,,3,1,none,2,4,32,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,6,2,4,672,2,,1,2,none,4,1,54,none,own,1,unemployed/ unskilled - non-resident,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,36,4,1,3804,2,,4,2,none,1,4,42,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,>= 200 DM / salary assignments for at least 1 year,24,1,4,1344,1,,4,1,none,2,1,37,bank,own,2,unskilled - resident,2,none,yes
+0,< 0 DM,10,1,4,1038,2,,4,1,co-applicant,3,2,49,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,no checking account,48,1,4,10127,4,,2,1,none,2,3,44,bank,for free,1,skilled employee / official,1,none,yes
+0,no checking account,6,2,3,1543,5,,4,3,none,2,1,33,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,30,2,5,4811,1,,2,2,none,4,2,24,stores,rent,1,unskilled - resident,1,none,yes
+1,< 0 DM,12,2,1,727,3,,4,4,none,3,3,33,none,own,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,8,2,3,1237,2,,3,2,none,4,1,24,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,9,2,4,276,2,,4,4,none,4,1,22,none,rent,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,48,2,9,5381,1,,3,1,none,4,3,40,bank,for free,1,unemployed/ unskilled - non-resident,1,"yes, registered under the customers name ",yes
+0,no checking account,24,2,3,5511,3,,4,1,none,1,4,25,stores,own,1,skilled employee / official,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,24,2,3,3749,2,,2,2,none,4,4,26,none,own,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,12,2,4,685,2,,2,4,none,3,4,25,bank,own,1,unskilled - resident,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,4,2,4,1494,1,,1,1,none,2,1,29,none,own,1,unskilled - resident,2,none,no
+1,< 0 DM,36,5,3,2746,2,,4,1,none,4,4,31,bank,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,12,2,3,708,2,,2,1,guarantor,3,2,38,none,own,1,unskilled - resident,2,none,yes
+0,0 <= ... < 200 DM,24,2,3,4351,1,,1,2,none,4,2,48,none,own,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,no checking account,12,1,2,701,2,,4,1,none,2,4,32,none,own,2,skilled employee / official,1,none,yes
+0,< 0 DM,15,3,3,3643,2,,1,2,none,4,2,27,none,own,2,unskilled - resident,1,none,yes
+1,0 <= ... < 200 DM,30,1,4,4249,2,,4,4,none,2,4,28,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+1,< 0 DM,24,2,1,1938,2,,4,3,none,3,2,32,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,24,2,5,2910,2,,2,1,none,1,3,34,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,< 0 DM,18,2,3,2659,5,,4,1,none,2,4,28,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,18,1,4,1028,2,,4,2,none,3,1,36,none,own,2,skilled employee / official,1,none,yes
+0,< 0 DM,8,1,4,3398,2,,1,1,none,4,1,39,none,own,2,unskilled - resident,1,none,no
+0,no checking account,12,1,3,5801,1,,2,1,none,4,2,49,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,24,2,4,1525,5,,4,2,none,3,4,34,none,own,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,36,2,1,4473,2,,4,1,none,2,4,31,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,6,2,1,1068,2,,4,1,none,4,4,28,none,own,1,skilled employee / official,2,none,yes
+0,< 0 DM,24,1,5,6615,2,,2,1,none,4,3,75,none,for free,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,no checking account,18,1,2,1864,3,,4,2,none,2,1,30,none,own,2,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,60,2,4,7408,3,,4,2,none,2,2,24,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+1,no checking account,48,1,5,11590,3,,2,2,none,4,4,24,bank,rent,2,unskilled - resident,1,none,yes
+1,< 0 DM,24,4,3,4110,2,,3,1,none,4,3,23,bank,rent,2,skilled employee / official,2,none,yes
+1,< 0 DM,6,1,3,3384,2,,1,3,none,4,1,44,none,rent,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,13,2,1,2101,2,,2,2,guarantor,4,2,23,none,own,1,unskilled - resident,1,none,yes
+1,< 0 DM,15,2,7,1275,1,,4,2,none,2,4,24,none,rent,1,skilled employee / official,1,none,yes
+0,< 0 DM,24,2,3,4169,2,,4,1,none,4,2,28,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,10,2,3,1521,2,,4,3,none,2,4,31,none,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,24,1,2,5743,2,,2,2,none,4,3,24,none,for free,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,21,2,3,3599,2,,1,2,none,4,4,26,none,rent,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,18,2,1,3213,4,,1,4,none,3,1,25,none,rent,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,18,2,6,4439,2,,1,1,co-applicant,1,1,33,bank,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,10,2,4,3949,2,,1,1,guarantor,1,2,37,none,own,1,unskilled - resident,2,none,yes
+0,no checking account,15,1,1,1459,2,,4,2,none,2,4,43,none,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,13,1,1,882,2,,4,1,guarantor,4,1,23,none,own,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,24,2,1,3758,4,,1,2,none,4,3,23,none,rent,1,unemployed/ unskilled - non-resident,1,none,yes
+0,no checking account,6,3,6,1743,3,,1,1,none,2,1,34,none,own,2,unskilled - resident,1,none,yes
+1,0 <= ... < 200 DM,9,1,2,1136,5,,4,1,none,3,3,32,none,for free,2,skilled employee / official,2,none,yes
+0,no checking account,9,2,7,1236,2,,1,2,none,4,1,23,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,9,2,3,959,2,,1,2,none,2,4,29,none,own,1,skilled employee / official,1,none,no
+0,no checking account,18,1,5,3229,1,,2,1,none,4,3,38,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,< 0 DM,12,4,1,6199,2,,4,1,none,2,2,28,none,rent,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,10,2,2,727,4,,4,1,none,4,3,46,none,for free,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,24,2,4,1246,2,,4,1,none,2,1,23,stores,own,1,unskilled - resident,1,none,yes
+0,no checking account,12,1,1,2331,1,,1,1,co-applicant,4,1,49,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,no checking account,36,3,1,4463,2,,4,1,none,2,4,26,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,12,2,1,776,2,,4,4,none,2,1,28,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,30,2,3,2406,2,,4,2,none,4,1,23,none,rent,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,18,2,2,1239,1,,4,1,none,4,3,61,none,for free,1,skilled employee / official,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,12,2,1,3399,1,,2,1,none,3,4,37,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,12,3,4,2247,2,,2,2,none,2,4,36,stores,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,6,2,3,1766,2,,1,4,none,2,2,21,none,rent,1,skilled employee / official,1,none,yes
+1,< 0 DM,18,2,3,2473,2,,4,1,none,1,4,25,none,own,1,unemployed/ unskilled - non-resident,1,none,yes
+0,no checking account,12,2,6,1542,2,,2,1,none,4,4,36,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,18,1,5,3850,2,,3,1,none,1,4,27,none,own,2,skilled employee / official,1,none,yes
+0,< 0 DM,18,2,3,3650,2,,1,2,none,4,4,22,none,rent,1,skilled employee / official,1,none,yes
+1,< 0 DM,36,2,3,3446,2,,4,1,none,2,4,42,none,own,1,skilled employee / official,2,none,yes
+0,0 <= ... < 200 DM,18,2,3,3001,2,,2,2,none,4,1,40,none,rent,1,skilled employee / official,1,none,yes
+0,no checking account,36,2,4,3079,1,,4,1,none,4,1,36,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,18,1,1,6070,2,,3,1,none,4,4,33,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,10,1,3,2146,2,,1,2,none,3,1,23,none,rent,2,skilled employee / official,1,none,yes
+0,no checking account,60,1,4,13756,1,,2,1,none,4,3,63,bank,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,60,5,9,14782,3,,3,2,none,4,3,60,bank,for free,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,< 0 DM,48,5,6,7685,2,,2,2,guarantor,4,4,37,none,rent,1,skilled employee / official,1,none,yes
+0,no checking account,18,3,1,2320,2,,2,4,none,3,1,34,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,7,3,1,846,1,,3,1,none,4,3,36,none,for free,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,36,2,4,14318,2,,4,1,none,2,3,57,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,6,1,4,362,3,,4,2,none,4,4,52,none,own,2,unskilled - resident,1,none,yes
+0,< 0 DM,20,2,3,2212,1,,4,1,none,4,4,39,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,18,2,5,12976,2,,3,2,none,4,3,38,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,22,2,4,1283,1,,4,2,none,4,2,25,none,rent,1,skilled employee / official,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,12,2,4,1330,2,,4,1,none,1,1,26,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,30,3,6,4272,3,,2,1,none,2,2,26,none,own,2,unskilled - resident,1,none,yes
+0,no checking account,18,1,1,2238,2,,2,2,none,1,4,25,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,18,2,1,1126,1,,4,2,none,2,1,21,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,18,1,3,7374,2,,4,1,none,4,2,40,stores,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,15,1,6,2326,4,,2,1,none,4,4,27,bank,own,1,skilled employee / official,1,none,yes
+0,no checking account,9,2,6,1449,2,,3,2,none,2,4,27,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,18,2,4,1820,2,,2,4,none,2,2,30,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,12,2,3,983,5,,1,2,none,4,1,19,none,rent,1,unskilled - resident,1,none,yes
+0,< 0 DM,36,2,4,3249,2,,2,1,none,4,3,39,bank,for free,1,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+0,< 0 DM,6,1,1,1957,2,,1,2,none,4,4,31,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,9,1,3,2406,2,,2,1,none,3,4,31,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+0,0 <= ... < 200 DM,39,3,2,11760,3,,2,1,none,3,3,32,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,12,2,3,2578,2,,3,2,none,4,3,55,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+0,< 0 DM,36,1,3,2348,2,,3,4,none,2,2,46,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,12,2,4,1223,2,,1,3,none,1,1,46,none,rent,2,skilled employee / official,1,none,yes
+0,no checking account,24,1,1,1516,5,,4,2,none,1,1,43,none,own,2,unskilled - resident,1,none,yes
+0,no checking account,18,2,1,1473,2,,3,4,none,4,1,39,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,18,1,6,1887,1,,4,4,none,4,1,28,bank,own,2,skilled employee / official,1,none,yes
+1,no checking account,24,3,6,8648,2,,2,1,none,2,4,27,bank,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,14,3,4,802,2,,4,1,none,2,4,27,none,own,2,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,18,3,4,2899,1,,4,1,none,4,4,43,none,own,1,skilled employee / official,2,none,yes
+1,0 <= ... < 200 DM,24,2,1,2039,2,,1,4,none,1,2,22,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,24,1,5,2197,1,,4,1,none,4,4,43,none,own,2,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,< 0 DM,15,2,1,1053,2,,4,4,none,2,1,27,none,own,1,skilled employee / official,1,none,no
+0,no checking account,24,2,1,3235,4,,3,3,none,2,4,26,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,>= 200 DM / salary assignments for at least 1 year,12,1,4,939,4,,4,4,none,2,1,28,none,own,3,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,24,2,1,1967,2,,4,2,none,4,4,20,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,33,1,5,7253,2,,3,1,none,2,4,35,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,no checking account,12,1,6,2292,2,,4,1,none,2,4,42,stores,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,10,2,4,1597,4,,3,1,none,2,3,40,none,rent,1,unskilled - resident,2,none,no
+1,< 0 DM,24,2,4,1381,1,,4,2,none,2,2,35,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,36,1,5,5842,2,,2,1,none,2,2,35,none,own,2,skilled employee / official,2,"yes, registered under the customers name ",yes
+1,< 0 DM,12,2,4,2579,2,,4,1,none,1,1,33,none,own,1,unskilled - resident,2,none,yes
+0,< 0 DM,18,3,2,8471,1,,1,2,none,2,4,23,none,rent,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,21,2,4,2782,4,,1,2,none,2,4,31,bank,own,1,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+1,0 <= ... < 200 DM,18,2,4,1042,1,,4,2,none,2,2,33,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,15,2,4,3186,5,,2,2,none,3,4,20,none,rent,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,12,2,5,2028,1,,4,1,none,2,4,30,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,12,1,4,958,2,,2,1,none,3,1,47,none,own,2,unskilled - resident,2,none,yes
+0,no checking account,21,3,3,1591,3,,4,1,none,3,1,34,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+1,0 <= ... < 200 DM,12,2,3,2762,1,,1,2,none,2,2,25,bank,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,18,2,5,2779,2,,1,4,none,3,4,21,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,28,1,1,2743,2,,4,1,none,2,4,29,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,18,1,1,1149,5,,4,1,none,3,1,46,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,9,2,3,1313,2,,1,1,none,4,4,20,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,18,1,8,1190,2,,2,2,none,4,3,55,none,for free,3,unemployed/ unskilled - non-resident,2,none,yes
+0,no checking account,5,2,6,3448,2,,1,1,none,4,1,74,none,own,1,unskilled - resident,1,none,yes
+1,0 <= ... < 200 DM,24,2,9,11328,2,,2,1,co-applicant,3,4,29,bank,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,< 0 DM,6,1,3,1872,2,,4,1,none,4,3,36,none,for free,3,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,24,1,8,2058,2,,4,3,none,2,1,33,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,9,2,3,2136,2,,3,1,none,2,1,25,none,own,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,12,2,1,1484,1,,2,4,none,1,1,25,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,6,2,8,660,4,,2,4,none,4,1,23,none,rent,1,unskilled - resident,1,none,yes
+0,no checking account,24,1,4,1287,5,,4,2,none,4,1,37,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,42,1,8,3394,2,,4,1,co-applicant,4,4,65,none,own,2,unemployed/ unskilled - non-resident,1,none,yes
+1,>= 200 DM / salary assignments for at least 1 year,12,5,6,609,2,,4,2,none,1,1,26,none,own,1,unemployed/ unskilled - non-resident,1,none,yes
+0,no checking account,12,2,4,1884,2,,4,1,none,4,4,39,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,< 0 DM,12,2,3,1620,2,,2,2,co-applicant,3,2,30,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,20,3,9,2629,2,,2,1,none,3,4,29,bank,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,no checking account,12,2,2,719,2,,4,1,none,4,4,41,bank,own,1,unskilled - resident,2,none,yes
+1,0 <= ... < 200 DM,48,1,3,5096,2,,2,2,none,3,4,30,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,9,1,2,1244,1,,4,2,none,4,2,41,none,rent,2,unskilled - resident,1,none,yes
+1,< 0 DM,36,2,4,1842,2,,4,2,none,4,4,34,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,7,2,1,2576,2,,2,1,guarantor,2,1,35,none,own,1,skilled employee / official,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,12,2,3,1424,1,,3,2,none,4,1,55,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,15,3,8,1512,5,,3,4,none,3,2,61,stores,own,2,skilled employee / official,1,none,yes
+0,no checking account,36,1,5,11054,1,,4,1,none,2,4,30,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,6,2,1,518,2,,3,2,none,1,1,29,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,12,4,3,2759,2,,2,1,none,4,2,34,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,24,2,5,2670,2,,4,1,none,4,4,35,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,< 0 DM,24,2,4,4817,2,,2,1,co-applicant,3,2,31,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,24,2,5,2679,2,,4,2,none,1,3,29,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,< 0 DM,11,1,4,3905,2,,2,1,none,2,1,36,none,rent,2,skilled employee / official,2,none,yes
+1,< 0 DM,12,2,5,3386,2,,3,1,none,4,3,35,none,for free,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,6,2,7,343,2,,4,2,none,1,1,27,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,18,2,1,4594,2,,3,1,none,2,4,32,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,36,2,3,3620,2,,1,1,guarantor,2,2,37,none,own,1,skilled employee / official,2,none,yes
+0,< 0 DM,15,2,4,1721,2,,2,1,none,3,1,36,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,12,2,3,3017,2,,3,2,none,1,1,34,none,rent,1,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+0,0 <= ... < 200 DM,12,2,10,754,1,,4,1,none,4,2,38,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,18,2,6,1950,2,,4,1,none,1,4,34,stores,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,24,2,5,2924,2,,3,1,guarantor,4,3,63,bank,own,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+1,< 0 DM,24,3,1,1659,2,,4,2,none,2,4,29,none,rent,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,no checking account,48,3,1,7238,1,,3,1,none,3,4,32,bank,own,2,skilled employee / official,2,none,yes
+0,no checking account,33,3,6,2764,2,,2,2,none,2,4,26,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,24,3,5,4679,2,,3,1,none,3,4,35,none,own,2,unskilled - resident,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,24,2,1,3092,3,,3,4,none,2,4,22,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,6,2,2,448,2,,4,2,none,4,2,23,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,9,2,4,654,2,,4,1,none,3,4,28,none,own,1,unskilled - resident,1,none,yes
+0,no checking account,6,2,10,1238,1,,4,1,none,4,2,36,none,own,1,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,18,1,1,1245,2,,4,4,none,2,4,33,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,18,4,3,3114,2,,1,2,none,4,2,26,none,rent,1,skilled employee / official,1,none,yes
+0,no checking account,39,2,5,2569,4,,4,1,none,4,4,24,none,own,1,skilled employee / official,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,24,2,1,5152,2,,4,1,none,2,4,25,bank,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,12,2,6,1037,3,,3,1,none,4,1,39,none,own,1,unskilled - resident,1,none,yes
+0,< 0 DM,15,1,3,1478,2,,4,1,none,4,4,44,none,own,2,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,12,1,1,3573,2,,1,2,none,1,1,23,none,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,24,2,4,1201,2,,4,1,none,1,2,26,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,30,2,3,3622,5,,4,2,none,4,2,57,none,rent,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,15,3,3,960,5,,3,2,none,2,2,30,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,12,1,4,1163,4,,4,1,none,4,1,44,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,6,3,4,1209,2,,4,1,none,4,2,47,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,12,2,1,3077,2,,2,1,none,4,4,52,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,24,2,4,3757,2,,4,2,co-applicant,4,3,62,none,for free,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,10,2,4,1418,3,,3,1,none,2,1,35,none,rent,1,unskilled - resident,1,none,no
+0,no checking account,6,2,4,3518,2,,2,1,guarantor,3,2,26,none,rent,1,skilled employee / official,1,none,yes
+0,no checking account,12,1,1,1934,2,,2,1,none,2,3,26,none,own,2,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,27,4,6,8318,2,,2,2,none,4,3,42,none,for free,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,6,1,1,1237,3,,1,2,none,1,2,27,none,own,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,6,2,1,368,1,,4,1,none,4,2,38,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,12,1,4,2122,2,,3,1,none,2,1,39,none,rent,2,unskilled - resident,2,none,no
+1,< 0 DM,24,2,3,2996,1,,2,4,none,4,4,20,none,own,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,36,2,3,9034,3,,4,1,co-applicant,1,3,29,none,rent,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,24,1,3,1585,2,,4,1,none,3,2,40,none,own,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,18,2,1,1301,2,,4,4,guarantor,2,1,32,none,own,1,unskilled - resident,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,6,1,4,1323,3,,2,3,none,4,4,28,none,own,2,skilled employee / official,2,"yes, registered under the customers name ",yes
+1,< 0 DM,24,2,4,3123,2,,4,2,none,1,2,27,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,36,2,5,5493,2,,2,1,none,4,3,42,none,for free,1,skilled employee / official,2,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,9,2,1,1126,3,,2,3,none,4,1,49,none,own,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,24,1,1,1216,3,,4,1,none,4,3,38,bank,own,2,skilled employee / official,2,none,yes
+1,< 0 DM,24,2,4,1207,2,,4,2,none,4,2,24,none,rent,1,skilled employee / official,1,none,yes
+1,no checking account,10,2,4,1309,1,,4,1,guarantor,4,2,27,none,own,1,unskilled - resident,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,15,1,5,2360,4,,2,1,none,2,4,36,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,15,5,4,6850,3,,1,1,none,2,2,34,none,own,1,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+0,no checking account,24,2,1,1413,2,,4,4,none,2,2,28,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,39,2,5,8588,3,,4,1,none,2,4,45,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,< 0 DM,12,2,4,759,2,,4,1,none,2,1,26,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,36,2,5,4686,2,,2,1,none,2,3,32,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,15,2,6,2687,2,,2,1,none,4,2,26,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,12,3,1,585,2,,4,4,co-applicant,4,1,20,none,rent,2,skilled employee / official,1,none,yes
+0,no checking account,24,2,4,2255,1,,4,1,none,1,2,54,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,6,1,4,609,2,,4,2,none,3,2,37,none,own,2,skilled employee / official,1,none,no
+0,< 0 DM,6,1,4,1361,2,,2,1,none,4,1,40,none,own,1,unskilled - resident,2,none,no
+1,no checking account,36,1,3,7127,2,,2,2,none,4,2,23,none,rent,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,6,2,4,1203,3,,3,1,none,2,2,43,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,6,1,1,700,1,,4,1,none,4,3,36,none,for free,2,skilled employee / official,1,none,yes
+0,no checking account,24,1,8,5507,2,,3,1,none,4,3,44,none,for free,2,skilled employee / official,1,none,yes
+1,< 0 DM,18,2,1,3190,2,,2,2,none,2,1,24,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,48,4,3,7119,2,,3,1,none,4,3,53,none,for free,2,skilled employee / official,2,none,yes
+0,no checking account,24,2,5,3488,3,,3,2,none,4,4,23,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,18,2,1,1113,2,,4,2,guarantor,4,1,26,none,own,1,unskilled - resident,2,none,yes
+0,0 <= ... < 200 DM,26,2,5,7966,2,,2,1,none,3,4,30,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,15,1,2,1532,3,,4,2,none,3,4,31,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,4,1,1,1503,2,,2,1,none,1,1,42,none,own,2,unskilled - resident,2,none,yes
+1,< 0 DM,36,2,1,2302,2,,4,3,none,4,4,31,none,rent,1,skilled employee / official,1,none,yes
+0,< 0 DM,6,2,4,662,2,,3,1,none,4,1,41,none,own,1,unskilled - resident,2,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,36,2,2,2273,2,,3,1,none,1,4,32,none,own,2,skilled employee / official,2,none,yes
+1,0 <= ... < 200 DM,15,2,4,2631,3,,2,2,none,4,4,28,none,rent,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,12,3,5,1503,2,,4,4,none,4,1,41,none,rent,1,skilled employee / official,1,none,yes
+0,no checking account,24,2,1,1311,3,,4,4,none,3,2,26,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,24,2,1,3105,1,,4,1,none,2,4,25,none,own,2,skilled employee / official,1,none,yes
+1,>= 200 DM / salary assignments for at least 1 year,21,1,2,2319,2,,2,3,none,1,4,33,none,rent,1,skilled employee / official,1,none,yes
+0,< 0 DM,6,2,4,1374,1,,4,2,none,3,2,75,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,18,1,3,3612,2,,3,2,none,4,2,37,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,48,2,4,7763,2,,4,1,none,4,3,42,bank,for free,1,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,18,2,3,3049,2,,1,2,none,1,2,45,stores,own,1,unskilled - resident,1,none,yes
+1,0 <= ... < 200 DM,12,2,1,1534,2,,1,4,none,1,1,23,none,rent,1,skilled employee / official,1,none,yes
+0,no checking account,24,3,4,2032,2,,4,1,none,4,3,60,none,for free,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,30,2,3,6350,1,,4,1,none,4,2,31,none,own,1,skilled employee / official,1,none,yes
+1,>= 200 DM / salary assignments for at least 1 year,18,2,3,2864,2,,2,1,none,1,1,34,none,own,1,unskilled - resident,2,none,yes
+0,no checking account,12,1,4,1255,2,,4,1,none,4,1,61,none,own,2,unskilled - resident,1,none,yes
+1,< 0 DM,24,3,4,1333,2,,4,1,none,2,1,43,none,for free,2,skilled employee / official,2,none,yes
+0,no checking account,24,1,4,2022,2,,4,2,none,4,4,37,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,24,2,1,1552,2,,3,1,none,1,4,32,bank,own,1,skilled employee / official,2,none,yes
+1,< 0 DM,12,5,1,626,2,,4,2,none,4,1,24,bank,own,1,unskilled - resident,1,none,yes
+0,no checking account,48,1,5,8858,1,,2,1,none,1,3,35,none,for free,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,12,1,8,996,1,,4,2,none,4,1,23,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,6,5,1,1750,4,,2,1,none,4,2,45,bank,own,1,unskilled - resident,2,none,yes
+1,< 0 DM,48,2,1,6999,2,,1,4,guarantor,1,1,34,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,12,1,4,1995,3,,4,1,none,1,4,27,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,9,2,2,1199,2,,4,2,none,4,2,67,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,12,2,1,1331,2,,2,1,none,1,4,22,stores,own,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,18,4,4,2278,3,,3,2,none,3,4,28,none,own,2,skilled employee / official,1,none,yes
+1,no checking account,21,4,4,5003,1,,1,2,none,4,2,29,bank,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,24,5,3,3552,2,,3,1,none,4,4,27,bank,own,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,18,1,3,1928,2,,2,1,none,2,1,31,none,own,2,unskilled - resident,1,none,yes
+0,< 0 DM,24,2,5,2964,1,,4,1,none,4,3,49,bank,for free,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+1,< 0 DM,24,5,1,1546,2,,4,1,guarantor,4,4,24,bank,rent,1,unskilled - resident,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,6,3,1,683,2,,2,2,none,1,2,29,bank,own,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,36,2,4,12389,1,,1,1,none,4,3,37,none,for free,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,24,3,6,4712,1,,4,1,none,2,2,37,bank,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,24,3,1,1553,3,,3,2,none,2,2,23,none,rent,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,12,2,4,1372,2,,2,3,none,3,4,36,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,24,1,1,2578,5,,2,1,none,2,4,34,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,48,2,1,3979,1,,4,1,none,1,4,41,none,own,2,skilled employee / official,2,"yes, registered under the customers name ",yes
+1,< 0 DM,48,2,1,6758,2,,3,2,none,2,4,31,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,24,2,3,3234,2,,4,2,none,4,1,23,none,rent,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,no checking account,30,1,1,5954,2,,3,1,co-applicant,2,4,38,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,24,2,5,5433,1,,2,2,none,4,2,26,none,rent,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,< 0 DM,15,2,6,806,2,,4,2,none,4,2,22,none,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,9,2,1,1082,2,,4,1,none,4,4,27,none,own,2,unskilled - resident,1,none,yes
+0,no checking account,15,1,3,2788,2,,2,2,co-applicant,3,4,24,bank,own,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,12,2,1,2930,2,,2,2,none,1,1,27,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,24,1,2,1927,1,,3,2,none,2,4,33,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,36,1,4,2820,2,,4,3,none,4,4,27,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,24,2,10,937,2,,4,4,none,3,4,27,none,own,2,unskilled - resident,1,none,yes
+1,0 <= ... < 200 DM,18,1,4,1056,2,,3,1,guarantor,3,1,30,bank,own,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,12,1,4,3124,2,,1,1,none,3,1,49,bank,own,2,unskilled - resident,2,none,yes
+0,no checking account,9,2,3,1388,2,,4,2,none,2,1,26,none,rent,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,36,2,8,2384,2,,4,1,none,1,3,33,none,rent,1,unskilled - resident,1,none,yes
+0,no checking account,12,2,4,2133,1,,4,2,none,4,3,52,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,< 0 DM,18,2,3,2039,2,,1,2,none,4,1,20,bank,rent,1,skilled employee / official,1,none,yes
+0,< 0 DM,9,1,4,2799,2,,2,1,none,2,1,36,none,rent,2,skilled employee / official,2,none,yes
+0,< 0 DM,12,2,3,1289,2,,4,1,guarantor,1,2,21,none,own,1,unskilled - resident,1,none,yes
+1,< 0 DM,18,2,7,1217,2,,4,4,none,3,1,47,none,own,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+1,< 0 DM,12,1,3,2246,2,,3,1,none,3,2,60,none,own,2,skilled employee / official,1,none,yes
+0,< 0 DM,12,1,1,385,2,,4,2,none,3,1,58,none,own,4,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,24,3,4,1965,1,,4,2,none,4,4,42,none,rent,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,21,2,6,1572,5,,4,2,none,4,1,36,bank,own,1,unskilled - resident,1,none,yes
+1,0 <= ... < 200 DM,24,2,4,2718,2,,3,2,none,4,2,20,none,rent,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+1,< 0 DM,24,5,9,1358,1,,4,1,none,3,4,40,stores,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,6,5,4,931,3,,1,2,none,1,2,32,stores,own,1,unskilled - resident,1,none,yes
+1,< 0 DM,24,2,4,1442,2,,4,2,none,4,4,23,none,rent,2,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,24,4,6,4241,2,,1,1,none,4,1,36,none,own,3,unskilled - resident,1,"yes, registered under the customers name ",yes
+1,no checking account,18,1,4,2775,2,,2,1,none,2,2,31,bank,own,2,skilled employee / official,1,none,yes
+0,no checking account,24,3,6,3863,2,,1,1,none,2,3,32,none,for free,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,7,2,1,2329,2,,1,2,guarantor,1,1,45,none,own,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,9,2,3,918,2,,4,2,none,1,2,30,none,own,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,24,5,2,1837,2,,4,2,none,4,3,34,bank,for free,1,unskilled - resident,1,none,yes
+1,no checking account,36,2,3,3349,2,,4,2,none,2,4,28,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,10,2,3,1275,2,,4,2,none,2,2,23,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,24,5,3,2828,4,,4,1,none,4,1,22,stores,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,24,1,6,4526,2,,3,1,none,2,1,74,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,36,2,1,2671,3,,4,2,co-applicant,4,3,50,none,for free,1,skilled employee / official,1,none,yes
+0,no checking account,18,2,1,2051,2,,4,1,none,1,1,33,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,15,2,5,1300,1,,4,1,none,4,3,45,bank,for free,1,skilled employee / official,2,none,yes
+1,< 0 DM,12,2,7,741,3,,4,2,none,3,2,22,none,own,1,skilled employee / official,1,none,yes
+1,>= 200 DM / salary assignments for at least 1 year,10,2,4,1240,3,,1,2,none,4,3,48,none,for free,1,unskilled - resident,2,none,yes
+0,< 0 DM,21,2,1,3357,5,,4,2,none,2,4,29,bank,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,24,5,5,3632,2,,1,2,guarantor,4,4,22,bank,rent,1,skilled employee / official,1,none,no
+1,no checking account,18,3,3,1808,2,,4,2,none,1,1,22,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,48,4,6,12204,1,,2,1,none,2,4,48,bank,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,60,3,1,9157,1,,2,1,none,2,3,27,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+0,< 0 DM,6,1,4,3676,2,,1,1,none,3,1,37,none,rent,3,skilled employee / official,2,none,yes
+1,0 <= ... < 200 DM,30,2,3,3441,3,,2,2,co-applicant,4,4,21,none,rent,1,skilled employee / official,1,none,yes
+0,no checking account,12,2,4,640,2,,4,3,none,2,1,49,none,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,21,1,6,3652,2,,2,1,none,3,2,27,none,own,2,skilled employee / official,1,none,yes
+1,no checking account,18,1,4,1530,2,,3,1,none,2,2,32,bank,own,2,skilled employee / official,1,none,yes
+1,no checking account,48,2,6,3914,1,,4,3,none,2,1,38,bank,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,12,2,3,1858,2,,4,2,none,1,4,22,none,rent,1,skilled employee / official,1,none,yes
+1,< 0 DM,18,2,1,2600,2,,4,1,none,4,3,65,none,for free,2,skilled employee / official,1,none,yes
+0,no checking account,15,2,1,1979,1,,4,1,none,2,4,35,none,own,1,skilled employee / official,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,6,2,3,2116,2,,2,1,none,2,1,41,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,9,5,4,1437,3,,2,1,none,3,3,29,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,42,1,3,4042,4,,4,1,none,4,1,36,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,9,2,2,3832,1,,1,1,none,4,1,64,none,own,1,unskilled - resident,1,none,yes
+0,< 0 DM,24,2,1,3660,2,,2,2,none,4,4,28,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,18,5,3,1553,2,,4,1,none,3,4,44,bank,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,15,2,1,1444,1,,4,1,none,1,2,23,none,own,1,skilled employee / official,1,none,yes
+1,no checking account,9,2,3,1980,2,,2,2,co-applicant,2,4,19,none,rent,2,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,24,2,4,1355,2,,3,2,none,4,4,25,none,own,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,no checking account,12,2,2,1393,2,,4,1,none,4,2,47,bank,own,3,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,24,2,1,1376,4,,4,2,none,1,4,28,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,60,3,1,15653,2,,2,1,none,4,4,21,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,12,2,1,1493,2,,4,2,none,3,4,34,none,own,1,skilled employee / official,2,none,yes
+1,< 0 DM,42,3,1,4370,2,,3,1,none,2,2,26,bank,own,2,skilled employee / official,2,"yes, registered under the customers name ",yes
+1,< 0 DM,18,2,2,750,2,,4,2,none,1,1,27,none,own,1,unemployed/ unskilled - non-resident,1,none,yes
+0,0 <= ... < 200 DM,15,2,8,1308,2,,4,1,none,4,4,38,none,own,2,unskilled - resident,1,none,yes
+1,no checking account,15,2,2,4623,3,,3,1,none,2,2,40,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,24,1,1,1851,2,,4,4,guarantor,2,4,33,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,18,1,1,1880,2,,4,4,none,1,2,32,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,no checking account,36,3,6,7980,1,,4,1,none,4,4,27,none,rent,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,30,4,3,4583,2,,2,3,guarantor,2,1,32,none,own,2,skilled employee / official,1,none,yes
+1,no checking account,12,2,4,1386,4,,2,2,none,2,2,26,none,own,1,skilled employee / official,1,none,yes
+1,>= 200 DM / salary assignments for at least 1 year,24,2,4,947,2,,4,1,none,3,3,38,bank,for free,1,skilled employee / official,2,none,yes
+1,< 0 DM,12,2,2,684,2,,4,1,none,4,4,40,none,rent,1,unskilled - resident,2,none,yes
+0,< 0 DM,48,2,2,7476,2,,4,1,none,1,3,50,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,12,2,3,1922,2,,4,1,none,2,2,37,none,own,1,unskilled - resident,1,none,yes
+1,< 0 DM,24,2,4,2303,2,,4,1,co-applicant,1,1,45,none,own,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,36,3,4,8086,3,,2,1,none,4,4,42,none,own,4,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,24,1,5,2346,2,,4,1,none,3,4,35,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,14,2,4,3973,2,,1,1,none,4,3,22,none,for free,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,12,2,4,888,2,,4,1,none,4,4,41,bank,own,1,unskilled - resident,2,none,yes
+0,no checking account,48,2,1,10222,1,,4,1,none,3,4,37,stores,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,30,4,6,4221,2,,2,2,none,1,4,28,none,own,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,18,1,3,6361,2,,2,1,none,1,3,41,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,12,2,1,1297,2,,3,4,none,4,1,23,none,rent,1,skilled employee / official,1,none,yes
+1,< 0 DM,12,2,4,900,1,,4,4,none,2,4,23,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,21,2,3,2241,2,,4,1,none,2,1,50,none,own,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,6,3,3,1050,2,,4,1,none,1,2,35,stores,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,6,1,2,1047,2,,2,2,none,4,2,50,none,own,1,unskilled - resident,1,none,yes
+0,no checking account,24,1,9,6314,2,,4,1,co-applicant,2,3,27,bank,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,30,5,3,3496,5,,4,1,none,2,4,34,stores,own,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,48,5,6,3609,2,,1,2,none,1,1,27,stores,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,12,1,4,4843,2,,3,1,co-applicant,4,2,43,none,rent,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,30,1,1,3017,2,,4,1,none,4,2,47,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,24,1,6,4139,3,,3,1,none,3,2,27,none,own,2,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,no checking account,36,2,6,5742,3,,2,1,none,2,4,31,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,60,2,4,10366,2,,2,1,none,4,2,42,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,6,1,4,2080,4,,1,4,none,2,4,24,none,own,1,skilled employee / official,1,none,yes
+1,no checking account,21,3,6,2580,4,,4,1,none,2,1,41,bank,own,1,unskilled - resident,2,none,yes
+0,no checking account,30,1,1,4530,2,,4,2,none,4,4,26,none,rent,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,24,1,3,5150,2,,4,1,none,4,4,33,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,72,2,1,5595,3,,2,4,none,2,4,24,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,24,2,1,2384,2,,4,1,none,4,1,64,bank,rent,1,unskilled - resident,1,none,yes
+0,no checking account,18,2,1,1453,2,,3,2,none,1,1,26,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,6,2,2,1538,2,,1,2,none,2,3,56,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,12,2,1,2279,1,,4,1,none,4,3,37,none,for free,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,15,3,1,1478,2,,4,4,none,3,1,33,bank,own,2,skilled employee / official,1,none,yes
+0,no checking account,24,1,1,5103,2,,3,4,none,3,3,47,none,for free,3,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,36,3,6,9857,3,,1,1,none,3,2,31,none,own,2,unskilled - resident,2,"yes, registered under the customers name ",yes
+0,no checking account,60,2,4,6527,1,,4,1,none,4,3,34,none,for free,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,10,1,1,1347,1,,4,1,none,2,2,27,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,36,3,4,2862,3,,4,1,none,3,3,30,none,for free,1,skilled employee / official,1,none,yes
+0,no checking account,9,2,1,2753,3,,3,1,co-applicant,4,4,35,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,12,2,4,3651,5,,1,1,none,3,2,31,none,own,1,skilled employee / official,2,none,yes
+0,< 0 DM,15,1,3,975,2,,2,3,none,3,2,25,none,own,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,15,2,8,2631,3,,3,2,none,2,1,25,none,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,24,2,1,2896,3,,2,1,none,1,4,29,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,6,1,4,4716,1,,1,1,none,3,1,44,none,own,2,unskilled - resident,2,none,yes
+0,no checking account,24,2,1,2284,2,,4,1,none,2,4,28,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,6,2,5,1236,4,,2,1,none,4,2,50,none,rent,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,12,2,1,1103,2,,4,1,guarantor,3,1,29,none,own,2,skilled employee / official,1,none,no
+0,no checking account,12,1,4,926,2,,1,2,none,2,2,38,none,own,1,unemployed/ unskilled - non-resident,1,none,yes
+0,no checking account,18,1,1,1800,2,,4,1,none,2,4,24,none,own,2,skilled employee / official,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,15,2,2,1905,2,,4,1,none,4,4,40,none,rent,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,no checking account,12,2,3,1123,4,,4,2,none,4,4,29,none,rent,1,unskilled - resident,1,none,yes
+1,< 0 DM,48,1,5,6331,2,,4,1,none,4,3,46,none,for free,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,24,2,1,1377,3,,4,2,none,2,3,47,none,for free,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,30,3,6,2503,3,,4,1,none,2,2,41,stores,own,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,27,2,6,2528,2,,4,2,none,1,2,32,none,own,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,15,2,4,5324,4,,1,2,none,4,3,35,none,for free,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,48,2,4,6560,3,,3,1,none,2,2,24,none,own,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,12,4,3,2969,2,,4,2,none,3,2,25,none,rent,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,9,2,1,1206,2,,4,2,none,4,1,25,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,9,2,1,2118,2,,2,1,none,2,1,37,none,own,1,unskilled - resident,2,none,yes
+0,no checking account,18,1,1,629,4,,4,1,none,3,2,32,bank,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,< 0 DM,6,5,2,1198,2,,4,2,none,4,3,35,none,for free,1,skilled employee / official,1,none,yes
+0,no checking account,21,2,5,2476,1,,4,1,none,4,1,46,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,< 0 DM,9,1,1,1138,2,,4,1,none,4,1,25,none,own,2,unskilled - resident,1,none,yes
+1,0 <= ... < 200 DM,60,2,4,14027,2,,4,1,none,2,3,27,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,30,1,5,7596,1,,1,1,none,4,4,63,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,30,1,1,3077,1,,3,1,none,2,4,40,none,own,2,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,18,2,1,1505,2,,4,1,none,2,3,32,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,24,1,1,3148,1,,3,1,none,2,4,31,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,20,4,5,6148,3,,3,4,none,4,4,31,bank,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,>= 200 DM / salary assignments for at least 1 year,9,4,1,1337,2,,4,1,none,2,4,34,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,6,5,2,433,5,,4,2,none,2,2,24,bank,rent,1,skilled employee / official,2,none,yes
+1,< 0 DM,12,2,4,1228,2,,4,2,none,2,1,24,none,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,9,2,1,790,4,,4,2,none,3,1,66,none,own,1,unskilled - resident,1,none,yes
+1,no checking account,27,2,4,2570,2,,3,2,none,3,1,21,none,rent,1,skilled employee / official,1,none,yes
+0,no checking account,6,1,4,250,5,,2,2,none,2,1,41,bank,own,2,unskilled - resident,1,none,yes
+0,no checking account,15,1,1,1316,4,,2,4,none,2,2,47,none,own,2,unskilled - resident,1,none,yes
+1,< 0 DM,18,2,1,1882,2,,4,2,none,4,4,25,bank,rent,2,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,48,5,6,6416,2,,4,2,none,3,3,59,none,rent,1,skilled employee / official,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,24,1,6,1275,5,,2,3,none,4,1,36,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,24,3,1,6403,2,,1,1,none,2,4,33,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,24,2,1,1987,2,,2,1,none,4,1,21,none,rent,1,unskilled - resident,2,none,yes
+0,0 <= ... < 200 DM,8,2,1,760,2,,4,2,guarantor,2,1,44,none,own,1,unskilled - resident,1,none,yes
+0,no checking account,24,2,5,2603,5,,2,2,none,4,4,28,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,4,1,4,3380,2,,1,2,none,1,1,37,none,own,1,skilled employee / official,2,none,yes
+0,0 <= ... < 200 DM,36,5,7,3990,1,,3,2,none,2,3,29,bank,own,1,unemployed/ unskilled - non-resident,1,none,yes
+1,0 <= ... < 200 DM,24,2,5,11560,2,,1,2,none,4,4,23,none,rent,2,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+0,< 0 DM,18,2,4,4380,3,,3,1,none,4,4,35,none,own,1,unskilled - resident,2,"yes, registered under the customers name ",yes
+0,no checking account,6,1,4,6761,2,,1,1,none,3,3,45,none,own,2,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,30,4,6,4280,3,,4,2,none,4,4,26,none,rent,2,unskilled - resident,1,none,yes
+0,< 0 DM,24,5,4,2325,3,,2,1,none,3,4,32,bank,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,10,5,1,1048,2,,4,1,none,4,1,23,stores,own,1,unskilled - resident,1,none,yes
+0,no checking account,21,2,1,3160,1,,4,1,none,3,2,41,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,24,5,3,2483,4,,4,1,none,4,1,22,stores,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,39,1,3,14179,1,,4,1,none,4,2,30,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,< 0 DM,13,1,6,1797,2,,3,1,none,1,2,28,bank,own,2,unskilled - resident,1,none,yes
+0,< 0 DM,15,2,4,2511,2,,1,2,none,4,4,23,none,rent,1,skilled employee / official,1,none,yes
+1,< 0 DM,12,2,4,1274,2,,3,2,none,1,1,37,none,own,1,unskilled - resident,1,none,yes
+0,no checking account,21,2,5,5248,1,,1,1,none,3,4,26,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,15,2,5,3029,2,,2,1,none,2,4,33,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,6,2,3,428,2,,2,2,none,1,2,49,bank,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,18,2,4,976,2,,1,2,none,2,4,23,none,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,12,2,6,841,3,,2,2,none,4,1,23,none,rent,1,unskilled - resident,1,none,yes
+0,no checking account,30,1,1,5771,2,,4,2,none,2,4,25,none,own,2,skilled employee / official,1,none,yes
+1,no checking account,12,3,8,1555,5,,4,1,none,4,3,55,none,for free,2,skilled employee / official,2,none,yes
+1,< 0 DM,24,2,4,1285,1,,4,2,none,4,3,32,none,rent,1,skilled employee / official,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,6,1,4,1299,2,,1,1,none,1,1,74,none,own,3,unemployed/ unskilled - non-resident,2,none,no
+1,>= 200 DM / salary assignments for at least 1 year,15,1,1,1271,1,,3,1,none,4,3,39,none,for free,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,24,2,4,1393,2,,2,1,guarantor,2,1,31,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,12,1,4,691,2,,4,1,none,3,2,35,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,15,1,4,5045,1,,1,2,none,4,4,59,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,18,1,3,2124,2,,4,2,none,4,1,24,none,rent,2,skilled employee / official,1,none,yes
+0,< 0 DM,12,2,1,2214,2,,4,1,none,3,2,24,none,own,1,unskilled - resident,1,none,yes
+1,no checking account,21,1,4,12680,1,,4,1,none,4,3,30,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,24,1,4,2463,3,,4,4,none,3,2,27,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,12,2,1,1155,2,,3,4,guarantor,3,1,40,bank,own,2,unskilled - resident,1,none,yes
+1,< 0 DM,30,2,3,3108,2,,2,3,none,4,2,31,none,own,1,unskilled - resident,1,none,yes
+0,no checking account,10,2,5,2901,1,,1,2,none,4,1,31,none,rent,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,12,1,3,3617,2,,1,1,none,4,4,28,none,rent,3,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,12,1,1,1655,2,,2,1,none,4,1,63,none,own,2,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,< 0 DM,24,2,5,2812,1,,2,2,none,4,1,26,none,rent,1,skilled employee / official,1,none,yes
+1,< 0 DM,36,1,2,8065,2,,3,2,none,2,3,25,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,21,1,5,3275,2,,1,1,none,4,4,36,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,24,1,1,2223,3,,4,1,none,4,2,52,bank,own,2,skilled employee / official,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,12,1,4,1480,4,,2,1,none,4,3,66,bank,for free,3,unemployed/ unskilled - non-resident,1,none,yes
+1,< 0 DM,24,2,4,1371,1,,4,2,none,4,1,25,none,rent,1,skilled employee / official,1,none,yes
+0,no checking account,36,1,4,3535,2,,4,1,none,4,4,37,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,18,2,1,3509,2,,4,2,guarantor,1,1,25,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,36,1,5,5711,5,,4,1,none,2,4,38,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,18,2,8,3872,2,,2,2,none,4,4,67,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,39,1,1,4933,2,,2,1,guarantor,2,1,25,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,24,1,4,1940,5,,4,1,none,4,1,60,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,12,4,10,1410,2,,2,1,none,2,1,31,none,own,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,12,2,4,836,3,,4,2,none,2,2,23,bank,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,20,2,5,6468,1,,1,3,none,4,1,60,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,18,2,6,1941,5,,4,1,none,2,2,35,none,own,1,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,no checking account,22,2,1,2675,4,,3,1,none,4,4,40,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,48,1,5,2751,1,,4,1,none,3,4,38,none,own,2,skilled employee / official,2,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,48,3,2,6224,2,,4,1,none,4,3,50,none,for free,1,skilled employee / official,1,none,yes
+1,< 0 DM,40,1,2,5998,2,,4,1,none,3,3,27,bank,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,21,2,6,1188,2,,2,2,none,4,2,39,none,own,1,skilled employee / official,2,none,yes
+0,no checking account,24,2,5,6313,1,,3,1,none,4,4,41,none,own,1,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+0,no checking account,6,1,3,1221,1,,1,4,none,2,2,27,none,own,2,skilled employee / official,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,24,2,3,2892,2,,3,3,none,4,3,51,none,for free,1,skilled employee / official,1,none,yes
+0,no checking account,24,2,3,3062,4,,4,1,none,3,3,32,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,9,2,3,2301,3,,2,2,none,4,2,22,none,rent,1,skilled employee / official,1,none,yes
+1,< 0 DM,18,2,5,7511,1,,1,1,none,4,2,51,none,for free,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,12,1,3,1258,2,,2,2,none,4,2,22,none,rent,2,unskilled - resident,1,none,yes
+0,no checking account,24,3,4,717,1,,4,4,none,4,4,54,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,9,2,4,1549,1,,4,1,none,2,1,35,none,own,1,unemployed/ unskilled - non-resident,1,none,yes
+0,no checking account,24,1,2,1597,2,,4,1,none,4,3,54,none,for free,2,skilled employee / official,2,none,yes
+0,0 <= ... < 200 DM,18,1,1,1795,2,,3,2,guarantor,4,1,48,bank,rent,2,unskilled - resident,1,"yes, registered under the customers name ",yes
+0,< 0 DM,20,1,3,4272,2,,1,2,none,4,2,24,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,12,1,1,976,1,,4,1,none,4,4,35,none,own,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,12,2,4,7472,1,,1,2,none,2,1,24,none,rent,1,unemployed/ unskilled - non-resident,1,none,yes
+1,< 0 DM,36,2,4,9271,2,,2,1,none,1,4,24,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,6,2,1,590,2,,3,4,none,3,1,26,none,own,1,unskilled - resident,1,none,no
+0,no checking account,12,1,1,930,1,,4,1,none,4,1,65,none,own,4,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,42,5,5,9283,2,,1,1,none,2,3,55,bank,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,15,4,4,1778,2,,2,2,none,1,1,26,none,rent,2,unemployed/ unskilled - non-resident,1,none,yes
+0,0 <= ... < 200 DM,8,2,6,907,2,,3,4,none,2,1,26,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,6,2,1,484,2,,3,4,guarantor,3,1,28,bank,own,1,unskilled - resident,1,none,yes
+1,< 0 DM,36,1,5,9629,2,,4,1,none,4,4,24,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,48,2,7,3051,2,,3,1,none,4,4,54,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,48,2,4,3931,2,,4,1,none,4,3,46,none,for free,1,skilled employee / official,2,none,yes
+0,0 <= ... < 200 DM,36,3,4,7432,2,,2,2,none,2,2,54,none,rent,1,skilled employee / official,1,none,yes
+0,no checking account,6,2,7,1338,4,,1,3,none,4,1,62,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,6,1,1,1554,2,,1,2,none,2,4,24,none,rent,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,36,2,9,15857,2,,2,3,co-applicant,3,4,43,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+1,< 0 DM,18,2,1,1345,2,,4,4,none,3,1,26,bank,own,1,skilled employee / official,1,none,yes
+0,no checking account,12,2,4,1101,2,,3,4,none,2,1,27,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,12,2,1,3016,2,,3,4,none,1,4,24,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,36,2,3,2712,2,,2,1,none,2,2,41,bank,own,1,skilled employee / official,2,none,yes
+0,< 0 DM,8,1,4,731,2,,4,1,none,4,1,47,none,own,2,unskilled - resident,1,none,yes
+0,no checking account,18,1,3,3780,2,,3,3,none,2,4,35,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,< 0 DM,21,1,4,1602,2,,4,4,none,3,4,30,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,18,1,4,3966,2,,1,2,none,4,1,33,bank,rent,3,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,no checking account,18,4,6,4165,2,,2,1,none,2,4,36,stores,own,2,skilled employee / official,2,none,yes
+1,< 0 DM,36,2,5,8335,1,,3,1,none,4,3,47,none,for free,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,48,3,6,6681,1,,4,1,none,4,3,38,none,for free,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,24,3,6,2375,4,,4,1,none,2,4,44,none,own,2,skilled employee / official,2,"yes, registered under the customers name ",yes
+1,< 0 DM,18,2,4,1216,2,,4,2,none,3,4,23,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,45,4,6,11816,2,,2,1,none,4,4,29,none,rent,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,24,2,1,5084,1,,2,2,none,4,4,42,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,>= 200 DM / salary assignments for at least 1 year,15,2,1,2327,2,,2,2,none,3,1,25,none,own,1,unskilled - resident,1,none,yes
+1,< 0 DM,12,4,4,1082,2,,4,1,none,4,4,48,bank,own,2,skilled employee / official,1,none,yes
+0,no checking account,12,2,1,886,1,,4,2,none,2,4,21,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,4,2,3,601,2,,1,2,none,3,1,23,none,rent,1,unskilled - resident,2,none,yes
+0,< 0 DM,24,1,5,2957,2,,4,1,none,4,2,63,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,24,1,1,2611,2,,4,4,co-applicant,3,1,46,none,own,2,skilled employee / official,1,none,yes
+1,< 0 DM,36,2,3,5179,2,,4,1,none,2,2,29,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,21,3,5,2993,2,,3,1,none,2,1,28,stores,own,2,unskilled - resident,1,none,yes
+1,no checking account,18,2,8,1943,2,,4,2,none,4,1,23,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,24,5,6,1559,2,,4,1,none,4,4,50,bank,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,18,2,3,3422,2,,4,1,none,4,2,47,bank,own,3,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,21,2,3,3976,1,,2,1,none,3,4,35,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,no checking account,18,2,4,6761,1,,2,1,none,4,4,68,none,rent,2,skilled employee / official,1,none,yes
+0,no checking account,24,2,4,1249,2,,4,4,none,2,1,28,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,9,2,1,1364,2,,3,1,none,4,1,59,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,12,2,1,709,2,,4,1,none,4,1,57,stores,own,1,unskilled - resident,1,none,yes
+1,< 0 DM,20,1,4,2235,2,,4,4,guarantor,2,2,33,bank,rent,2,skilled employee / official,1,none,no
+0,no checking account,24,1,5,4042,1,,3,1,none,4,2,43,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,15,1,1,1471,2,,4,1,none,4,3,35,none,for free,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,18,5,4,1442,2,,4,1,none,4,3,32,none,for free,2,unskilled - resident,2,none,yes
+0,no checking account,36,3,4,10875,2,,2,1,none,2,4,45,none,own,2,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,24,2,4,1474,3,,4,4,none,3,1,33,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,10,2,10,894,1,,4,2,none,3,2,40,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,15,1,3,3343,2,,4,1,none,2,3,28,none,for free,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,15,2,4,3959,2,,3,2,none,2,2,29,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,9,2,4,3577,3,,1,1,guarantor,2,1,26,none,rent,1,skilled employee / official,2,none,no
+0,no checking account,24,1,5,5804,5,,4,1,none,2,1,27,none,own,2,skilled employee / official,1,none,yes
+1,no checking account,18,3,6,2169,2,,4,4,none,2,4,28,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,24,2,1,2439,2,,4,2,none,4,1,35,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,27,1,3,4526,5,,4,1,none,2,1,32,stores,own,2,unskilled - resident,2,"yes, registered under the customers name ",yes
+1,no checking account,10,2,3,2210,2,,2,1,none,2,1,25,bank,rent,1,unskilled - resident,1,none,yes
+0,no checking account,15,2,3,2221,4,,2,2,none,4,4,20,none,rent,1,skilled employee / official,1,none,yes
+0,< 0 DM,18,2,1,2389,2,,4,2,none,1,4,27,stores,own,1,skilled employee / official,1,none,yes
+0,no checking account,12,1,3,3331,2,,2,1,none,4,2,42,stores,own,1,skilled employee / official,1,none,yes
+0,no checking account,36,2,6,7409,1,,3,1,none,2,2,37,none,own,2,skilled employee / official,1,none,yes
+0,< 0 DM,12,2,3,652,2,,4,2,none,4,2,24,none,rent,1,skilled employee / official,1,none,yes
+0,no checking account,36,3,3,7678,4,,2,2,none,4,4,40,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,6,1,4,1343,2,,1,1,none,4,1,46,none,own,2,skilled employee / official,2,none,no
+0,< 0 DM,24,1,6,1382,3,,4,1,none,1,1,26,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,15,2,7,874,1,,4,2,none,1,1,24,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,12,2,3,3590,2,,2,1,co-applicant,2,2,29,none,own,1,unskilled - resident,2,none,yes
+0,0 <= ... < 200 DM,11,1,4,1322,5,,4,2,none,4,4,40,none,own,2,skilled employee / official,1,none,yes
+0,< 0 DM,18,5,1,1940,2,,3,1,co-applicant,4,3,36,bank,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,36,2,1,3595,2,,4,1,none,2,4,28,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,9,2,4,1422,2,,3,1,none,2,3,27,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,30,1,1,6742,1,,2,1,none,3,2,36,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,24,2,5,7814,2,,3,1,none,3,4,38,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,24,2,5,9277,1,,2,3,none,4,3,48,none,for free,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,30,1,4,2181,1,,4,1,none,4,1,36,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,18,1,1,1098,2,,4,2,none,4,4,65,none,own,2,unemployed/ unskilled - non-resident,1,none,yes
+1,0 <= ... < 200 DM,24,2,3,4057,2,,3,3,none,3,4,43,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,12,2,2,795,2,,4,2,none,4,2,53,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,24,1,6,2825,1,,4,1,none,3,3,34,none,own,2,skilled employee / official,2,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,48,2,6,15672,2,,2,1,none,2,4,23,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,36,1,4,6614,2,,4,1,none,4,4,34,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,28,5,5,7824,1,,3,1,guarantor,4,1,40,bank,rent,2,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,< 0 DM,27,1,6,2442,2,,4,1,none,4,4,43,stores,own,4,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+0,no checking account,15,1,1,1829,2,,4,1,none,4,4,46,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,12,1,4,2171,2,,4,1,none,4,2,38,bank,own,2,unskilled - resident,1,none,no
+0,0 <= ... < 200 DM,36,1,5,5800,2,,3,1,none,4,4,34,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,18,1,1,1169,1,,4,1,none,3,2,29,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,36,3,5,8947,1,,3,1,none,2,4,31,stores,own,1,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+0,< 0 DM,21,2,1,2606,2,,4,2,none,4,2,28,none,rent,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,12,1,3,1592,5,,3,2,none,2,2,35,none,own,1,skilled employee / official,1,none,no
+0,no checking account,15,2,3,2186,1,,1,2,none,4,1,33,bank,rent,1,unskilled - resident,1,none,yes
+1,< 0 DM,18,2,3,4153,2,,2,1,co-applicant,3,4,42,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,16,1,4,2625,2,,2,1,guarantor,4,2,43,bank,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,20,1,4,3485,1,,2,3,none,4,1,44,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,36,1,5,10477,1,,2,1,none,4,3,42,none,for free,2,skilled employee / official,1,none,yes
+0,no checking account,15,2,1,1386,1,,4,4,none,2,1,40,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,24,2,1,1278,2,,4,1,none,1,1,36,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,< 0 DM,12,2,1,1107,2,,2,1,none,2,1,20,none,rent,1,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+0,< 0 DM,21,2,4,3763,1,,2,1,co-applicant,2,1,24,none,own,1,unskilled - resident,1,none,no
+0,0 <= ... < 200 DM,36,2,2,3711,1,,2,4,none,2,4,27,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,15,3,5,3594,2,,1,2,none,2,2,46,none,own,2,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,9,2,4,3195,1,,1,2,none,2,1,33,none,own,1,unskilled - resident,1,none,yes
+0,no checking account,36,3,1,4454,2,,4,2,none,4,1,34,none,own,2,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,24,1,3,4736,2,,2,2,none,4,4,25,bank,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,30,2,1,2991,1,,2,2,none,4,4,25,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,11,2,6,2142,5,,1,3,none,2,1,28,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,24,5,6,3161,2,,4,1,none,2,2,31,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,48,4,9,18424,2,,1,2,none,2,2,32,bank,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",no
+0,no checking account,10,2,5,2848,3,,1,1,co-applicant,2,1,32,none,own,1,skilled employee / official,2,none,yes
+1,< 0 DM,6,2,4,14896,2,,1,1,none,4,3,68,bank,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,< 0 DM,24,2,3,2359,3,,1,3,none,1,2,33,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,24,2,3,3345,2,,4,1,none,2,2,39,none,rent,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,18,1,3,1817,2,,4,2,none,2,3,28,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,48,3,1,12749,4,,4,1,none,1,4,37,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,< 0 DM,9,2,1,1366,2,,3,2,none,4,2,22,none,rent,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,12,2,4,2002,2,,3,1,none,4,2,30,none,rent,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+1,< 0 DM,24,5,3,6872,2,,2,3,none,1,2,55,bank,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,< 0 DM,12,5,4,697,2,,4,1,none,2,4,46,bank,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,18,1,3,1049,2,,4,2,none,4,2,21,none,rent,1,skilled employee / official,1,none,yes
+1,< 0 DM,48,2,5,10297,2,,4,1,none,4,3,39,stores,for free,3,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,30,2,1,1867,1,,4,1,none,4,4,58,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,12,3,4,1344,2,,4,1,none,2,1,43,none,own,2,unskilled - resident,2,none,yes
+0,< 0 DM,24,2,3,1747,2,,4,1,co-applicant,1,2,24,none,own,1,unskilled - resident,1,none,no
+1,0 <= ... < 200 DM,9,2,1,1670,2,,4,2,none,2,4,22,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,9,1,4,1224,2,,3,1,none,1,1,30,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,12,1,1,522,4,,4,1,none,4,2,42,none,own,2,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,< 0 DM,12,2,1,1498,2,,4,2,none,1,4,23,bank,own,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,30,3,1,1919,3,,4,1,none,3,3,30,stores,own,2,management/ self-employed/ highly qualified employee/ officer,1,none,yes
+1,>= 200 DM / salary assignments for at least 1 year,9,2,1,745,2,,3,2,none,2,1,28,none,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,6,2,1,2063,2,,4,4,none,3,4,30,none,rent,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,60,2,2,6288,2,,4,1,none,4,3,42,none,for free,1,skilled employee / official,1,none,yes
+0,no checking account,24,1,5,6842,1,,2,1,none,4,2,46,none,own,2,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+0,no checking account,12,2,4,3527,1,,2,1,none,3,2,45,none,own,1,management/ self-employed/ highly qualified employee/ officer,2,"yes, registered under the customers name ",yes
+0,no checking account,10,2,4,1546,2,,3,1,none,2,1,31,none,own,1,unskilled - resident,2,none,no
+0,no checking account,24,2,3,929,1,,4,1,none,2,4,31,stores,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,4,1,4,1455,2,,2,1,none,1,1,42,none,own,3,unskilled - resident,2,none,yes
+0,< 0 DM,15,2,3,1845,2,,4,2,guarantor,1,2,46,none,rent,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,48,4,4,8358,4,,1,2,none,1,4,30,none,own,2,skilled employee / official,1,none,yes
+1,< 0 DM,24,5,3,3349,4,,4,1,none,4,3,30,none,for free,1,skilled employee / official,2,"yes, registered under the customers name ",yes
+0,no checking account,12,2,4,2859,1,,4,1,none,4,3,38,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,no checking account,18,2,3,1533,2,,4,4,co-applicant,1,2,43,none,own,1,unskilled - resident,2,none,yes
+1,no checking account,24,2,1,3621,3,,2,1,none,4,4,31,none,own,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,18,1,6,3590,2,,3,4,none,3,4,40,none,own,3,unemployed/ unskilled - non-resident,2,"yes, registered under the customers name ",yes
+1,< 0 DM,36,3,6,2145,2,,2,1,none,1,4,24,none,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+1,0 <= ... < 200 DM,24,2,5,4113,4,,3,2,none,4,4,28,none,rent,1,skilled employee / official,1,none,yes
+1,no checking account,36,2,3,10974,2,,4,2,none,2,4,26,none,own,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,< 0 DM,12,2,4,1893,2,,4,2,guarantor,4,2,29,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,24,1,1,1231,5,,4,2,none,4,2,57,none,rent,2,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,30,1,1,3656,1,,4,1,none,4,2,49,stores,own,2,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,9,1,1,1154,2,,2,1,none,4,1,37,none,own,3,unskilled - resident,1,none,yes
+1,< 0 DM,28,2,4,4006,2,,3,1,none,2,4,45,none,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,24,2,3,3069,3,,4,1,none,4,3,30,none,for free,1,skilled employee / official,1,none,yes
+0,no checking account,6,1,1,1740,2,,2,4,none,2,1,30,none,rent,2,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,21,3,4,2353,2,,1,3,none,4,2,47,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,15,2,4,3556,1,,3,1,none,2,3,29,none,own,1,skilled employee / official,1,none,yes
+1,no checking account,24,2,1,2397,4,,3,1,none,2,4,35,bank,own,2,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,6,2,8,454,2,,3,4,none,1,2,22,none,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,30,2,1,1715,1,,4,2,none,1,4,26,none,own,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,27,1,1,2520,4,,4,1,none,2,2,23,none,own,2,unskilled - resident,1,none,yes
+0,no checking account,15,2,1,3568,2,,4,2,none,2,4,54,bank,rent,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,42,2,1,7166,1,,2,4,none,4,2,29,none,rent,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,< 0 DM,11,1,4,3939,2,,1,1,none,2,1,40,none,own,2,unskilled - resident,2,none,yes
+0,0 <= ... < 200 DM,15,2,8,1514,3,,4,1,guarantor,2,1,22,none,own,1,skilled employee / official,1,none,yes
+0,no checking account,24,2,4,7393,2,,1,1,none,4,2,43,none,own,1,unskilled - resident,2,none,yes
+1,< 0 DM,24,5,4,1193,2,,1,2,co-applicant,4,3,29,none,rent,2,unemployed/ unskilled - non-resident,1,none,yes
+1,< 0 DM,60,2,6,7297,2,,4,1,co-applicant,4,3,36,none,rent,1,skilled employee / official,1,none,yes
+0,no checking account,30,1,1,2831,2,,4,2,none,2,4,33,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,24,2,1,1258,4,,3,2,none,3,4,57,none,own,1,unskilled - resident,1,none,yes
+0,0 <= ... < 200 DM,6,2,1,753,2,,2,2,guarantor,3,1,64,none,own,1,skilled employee / official,1,none,yes
+0,0 <= ... < 200 DM,18,3,6,2427,1,,4,1,none,2,2,42,none,own,2,skilled employee / official,1,none,yes
+1,no checking account,24,3,4,2538,2,,4,1,none,4,4,47,none,own,2,unskilled - resident,2,none,yes
+1,0 <= ... < 200 DM,15,5,4,1264,3,,2,4,none,2,2,25,none,rent,1,skilled employee / official,1,none,yes
+1,0 <= ... < 200 DM,30,1,3,8386,2,,2,1,none,2,2,49,none,own,1,skilled employee / official,1,none,yes
+1,no checking account,48,2,6,4844,2,,3,1,none,2,4,33,bank,rent,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,>= 200 DM / salary assignments for at least 1 year,21,2,4,2923,3,,1,2,none,1,4,28,bank,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+1,< 0 DM,36,2,5,8229,2,,2,1,none,2,2,26,none,own,1,skilled employee / official,2,none,yes
+0,no checking account,24,1,3,2028,2,,2,1,none,2,2,30,none,own,2,unskilled - resident,1,none,yes
+0,< 0 DM,15,1,3,1433,2,,4,2,none,3,2,25,none,rent,2,skilled employee / official,1,none,yes
+0,>= 200 DM / salary assignments for at least 1 year,42,4,6,6289,2,,2,3,none,1,2,33,none,own,2,skilled employee / official,1,none,yes
+0,no checking account,13,2,1,1409,3,,2,2,none,4,1,64,none,own,1,skilled employee / official,1,none,yes
+0,< 0 DM,24,2,5,6579,2,,4,1,none,2,3,29,none,for free,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,24,1,1,1743,2,,4,1,none,2,2,48,none,own,2,unskilled - resident,1,none,yes
+0,no checking account,12,1,2,3565,1,,2,1,none,1,2,37,none,own,2,unskilled - resident,2,none,yes
+0,no checking account,15,5,1,1569,3,,4,1,none,4,4,34,bank,own,1,unskilled - resident,2,none,yes
+0,< 0 DM,18,2,1,1936,1,,2,4,none,4,4,23,none,rent,2,unskilled - resident,1,none,yes
+0,< 0 DM,36,2,3,3959,2,,4,1,none,3,2,30,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,12,2,4,2390,1,,4,1,none,3,4,50,none,own,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,no checking account,12,2,3,1736,2,,3,2,none,4,1,31,none,own,1,unskilled - resident,1,none,yes
+0,< 0 DM,30,2,5,3857,2,,4,3,none,4,2,40,none,own,1,management/ self-employed/ highly qualified employee/ officer,1,"yes, registered under the customers name ",yes
+0,no checking account,12,2,1,804,2,,4,1,none,4,4,38,none,own,1,skilled employee / official,1,none,yes
+1,< 0 DM,45,2,1,1845,2,,4,1,none,4,3,23,none,for free,1,skilled employee / official,1,"yes, registered under the customers name ",yes
+0,0 <= ... < 200 DM,45,1,5,4576,3,,3,1,none,4,4,27,none,own,1,skilled employee / official,1,none,yes
